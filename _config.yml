@@ -1,6 +1,6 @@
-title: "Blog Title"
+title: "It's Not too Late"
 author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+description: "It's Not Too Late"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -18,6 +18,8 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html"}
   - {file: "README.md"}
+  - {file: "script.md", title: "Meeting Script"}
+  - {file : "instructions.md", title: "Meeting Instructions"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
