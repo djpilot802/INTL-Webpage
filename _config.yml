@@ -19,6 +19,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html"}
   - {file: "script.md"}
   - {file : "instructions.md"}
+  - {url: "https://timetreeapp.com/calendars/SRx7BmTyN7Hw", title: "Timetree"}
+  - {url: "https://www.signupgenius.com/go/10c0f4aaeab2fa2fac07-august", title: "Service Work"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:itsnottoolate1030@gmail.com"}
