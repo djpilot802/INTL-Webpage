@@ -1,10 +1,3 @@
----
-title:  "Welcome!"
-mathjax: true
-layout: post
-categories: media
----
-
 ![Bill W](https://cdn.quotesgram.com/img/66/93/1346028509-MITG_19_low.jpg)
 
 ## Welcome!
