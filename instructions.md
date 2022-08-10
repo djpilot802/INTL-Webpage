@@ -1,5 +1,3 @@
-# Instructions 
-
 ### Greeter & Secretary Notes: 
 
 To sign in to the group account: 
