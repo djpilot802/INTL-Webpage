@@ -1,6 +1,6 @@
 title: "intl"
 author: "Blog Author"
-description: "It's Not Too Late"
+description: "© It's Not Too Late | No Rights Reserved"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -19,8 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html"}
   - {file: "script.md", title: "Script"}
   - {file : "instructions.md", title: "Instructions"}
-  - {url: "https://timetreeapp.com/calendars/SRx7BmTyN7Hw", title: "Timetree"}
-  - {url: "https://www.signupgenius.com/go/10c0f4aaeab2fa2fac07-august", title: "Service Work"}
+  - {url: "https://www.signupgenius.com/go/10c0f4aaeab2fa2fac07-august", title: "Service"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:itsnottoolate1030@gmail.com"}
