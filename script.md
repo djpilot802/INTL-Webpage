@@ -1,5 +1,3 @@
-# Script 
-
 ### Secretary Notes: 
 
 **Click the link below to sign directly into the meeting:**
