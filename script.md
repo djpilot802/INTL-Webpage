@@ -1,4 +1,4 @@
-# INTL Meeting Script 
+# Script 
 
 ### Greeter & Secretary Notes: 
 
