@@ -1,6 +1,7 @@
 ### Greeter & Secretary Notes: 
 
-1. Sign into the [Zoom](https://zoom.us/) or app with below credentials: 
+1. Check [Timetree](https://timetreeapp.com/calendars/SRx7BmTyN7Hw/events/860885a6cea44e82906797f5badeffa4) for the group credentials
+2. Sign into the [Zoom](https://zoom.us/) or app with below credentials: 
 
 ```yml 
 username: 
