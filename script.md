@@ -1,8 +1,18 @@
 ### Secretary Notes: 
 
-**Click the link below to sign directly into the meeting:**
+1. Sign into the [Zoom](https://zoom.us/) or app with below credentials: 
 
-[Sign into Meeting](https://us04web.zoom.us/j/406536344)
+```yml 
+username: 
+
+itsnottoolate1030@gmail.com
+
+password: 
+
+itsnotTOOlate8
+
+```
+2. [Sign into Meeting](https://us04web.zoom.us/j/406536344)
 
 >Prior to the meeting, ask for volunteers, or just call on people in the moment - up to you: 
 >
