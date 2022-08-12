@@ -2,20 +2,9 @@
 
 1. Check [Timetree](https://timetreeapp.com/calendars/SRx7BmTyN7Hw/events/860885a6cea44e82906797f5badeffa4) for the group credentials
 2. Sign into the [Zoom](https://zoom.us/) or app with below credentials: 
-
-```yml 
-username: 
-
-itsnottoolate1030@gmail.com
-
-password: 
-
-itsnotTOOlate8
-
-```
-2. [Sign into Meeting](https://us04web.zoom.us/j/406536344)
-3. Rename yourself to reflect your actual name. 
-4. If you receive any error messages, reach out to the group for help
+3. [Sign into Meeting](https://us04web.zoom.us/j/406536344)
+4. Rename yourself to reflect your actual name. 
+5. If you receive any error messages, reach out to the group for help
 
 Helpful links: 
 
