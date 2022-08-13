@@ -39,6 +39,9 @@ Courage to change the things I can,
 and Wisdom to know the difference.
 
 AA is a fellowship of people who share their experience, strength, and hope with each other that they may solve their common problem and help others to recover from alcoholism. In keeping with our singleness of purpose and our Third Tradition which states that “The only requirement for A.A. membership is a desire to stop drinking,” we ask that all who participate confine their discussions to our problem with alcohol. And, most importantly, to the solution.
+
+Before we get started, are there any A.A. Announcemens? 
+
 Now someone will volunteer to read the 12 steps, which I will share on the screen…     
 
 # 12 Steps 
@@ -179,7 +182,7 @@ ________, will you please present the virtual chips tonight?
 
 There are no dues or fees for A.A. membership; we are self-supporting through our own contributions. A.A. Is not allied with any sect, denomination, politics, organization or institution; does not wish to engage in any controversy; neither endorses nor opposes any causes. Our primary purpose is to stay sober and help other alcoholics to achieve sobriety. If you would like to contribute to our 7th tradition basket, we will post the meeting’s Cash App username in the chat shortly.  
 
-Our monthly group conscience meeting is the last Saturday of every month at 11:45pm directly following the regular meeting. If you are interested in making It’s Not Too Late your virtual homegroup, please say so in the chat or stay and talk to us after the meeting! If you want to be of service in the upcoming month, click on the link in the chat to sign up. We have an ask-it basket that allows you to ask recovery-related questions anonymously. We review these questions as topics at our Sunday meeting. Feel free to submit a question by clicking the link in the chat. We have a Speaker Meeting the first Saturday of the month - please come show your support. Are there any A.A. announcements?    
+Our monthly group conscience meeting is the last Saturday of every month at 11:45pm directly following the regular meeting. If you are interested in making It’s Not Too Late your virtual homegroup, please say so in the chat or stay and talk to us after the meeting! If you want to be of service in the upcoming month, click on the link in the chat to sign up. We have an ask-it basket that allows you to ask recovery-related questions anonymously. We review these questions as topics at our Sunday meeting. Feel free to submit a question by clicking the link in the chat. We have a Speaker Meeting the first Saturday of the month - please come show your support.  
 
 **Paste below in the meeting chat:**   
 
