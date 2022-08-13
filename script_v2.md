@@ -59,10 +59,6 @@ Now someone will volunteer to read the 12 steps, which I will share on the scree
 11. Sought through prayer and meditation to improve our conscious contact with God as we understood Him, praying only for knowledge of His will for us and the power to carry that out. 
 12. Having had a spiritual awakening as a result of these steps, we tried to carry this message to alcoholics, and to practice these principles in all our affairs.  
 
-Many of us exclaimed, “What an order! I can’t go through with it.” Do not be discouraged. No one among us has been able to maintain anything like perfect adherence to these principles. We are not saints. The point is, that we are willing to grow along spiritual lines. The principles we have set down are guides to progress. We claim spiritual progress rather than spiritual perfection. 
-
-Our description of the alcoholic, the chapter to the agnostic and our personal adventures before and after make clear three pertinent ideas: 
-
 **Now a friend will read the 12 Traditions**
 
 # The Twelve Traditions of Alcoholics Anonymous
