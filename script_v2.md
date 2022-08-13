@@ -160,7 +160,7 @@ Before I pass it to our speaker seeker, is anyone having a desire to drink today
 
 Okay, I will now turn the meeting over to our Speaker Seeker, Jackie.
 
-## Script at 11:20 - 11:25PM
+## Script at 11:25PM
     
 >The secretary may use discretion when closing the meeting, and can begin closing out between 11:20 and 11:25pm
 
