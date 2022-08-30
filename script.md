@@ -114,8 +114,8 @@ Everyone who is available to sponsor please raise your hand and write your numbe
 
 Here at the It’s Not Too Late meeting, someone brings a topic and then selects someone to share. Then that person picks on someone else to share… and so on. If you have a desire to share, please raise your virtual hand or speak up after a share.    
 
-**When there are 16+ people active in the meeting (not just listening), say the following:**
-
+>When there are 16+ people active in the meeting (not just listening), say the following:
+>
 >In order to let as many people share as possible, we ask that everyone keep their share to 3 minutes. The timekeeper will let you know when you have 30 seconds left of sharing and when to wrap up. Can I have a volunteer to be our timekeeper tonight?
 
 We also try to refrain from crosstalk - which means interrupting, talking to someone during their share, or giving direct advice during the meeting. Please stay after the meeting for a chance to chat and fellowship.    
