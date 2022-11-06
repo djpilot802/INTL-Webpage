@@ -160,13 +160,7 @@ https://www.aa.org/pages/en_US/twelve-steps-and-twelve-traditions
 ```
 ## Script for Speaker Meeting: 
 
-Here at the It’s Not Too Late meeting, on the first Saturday of the month - which is today - a speaker graciously comes and shares their story with us. 
-
-Before I pass it to our speaker seeker, is anyone having a desire to drink today or have anything on their heart or mind that they would like to share about? 
-
->Pause for people to speak and to look for raised hands.    
-
-Okay, I will now turn the meeting over to our Speaker Seeker, Jackie.
+Here at the It’s Not Too Late meeting, on the first Saturday of the month - which is today - a speaker graciously comes and shares their story with us. I will now turn the meeting over to our Speaker Seeker, Jackie.
 
 ## Script at 11:20 - 11:25PM
     
