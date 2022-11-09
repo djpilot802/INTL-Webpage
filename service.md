@@ -12,7 +12,7 @@ Service work is an excellent way to keep yourself sober and help others to stay 
 
 ### How do I sign up? 
 
-Go to the sign-up link below. If you are a newcomer or are new to the INTL homegroup, we'd HIGHLY recommend signing up for multiple service positions a week. Also, think about where we need the most help, which is greeting. 
+Go to the sign-up link below. If you are a newcomer or are new to the INTL homegroup, we'd HIGHLY recommend signing up for multiple service positions a week. Also, think about where we need the most help, which is greeting. Just signing up to be the topic bringer one night a week doesn't offer much to the group. 
 
 ## Sign Up 
 
