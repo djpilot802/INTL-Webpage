@@ -18,10 +18,10 @@ Go to the sign-up link below. If you are a newcomer or are new to the INTL homeg
 
 Sign up for service work using: 
 
-[Signup Genius](https://bit.ly/3RKf9UO)
+[Signup Genius](https://www.signupgenius.com/go/10c0f4aaeab2fa2fac07-january)
 
 ## Keeping Track 
 
 Keep track of your existing service commitments with: 
 
-[Timetree](https://timetreeapp.com/calendars/SRx7BmTyN7Hw)
+[Timetree](https://timetr.ee/s/x7odmjYhPdCX-SMMUrRzcVGZYqwTIwO2)
