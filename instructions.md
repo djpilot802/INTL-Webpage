@@ -1,8 +1,14 @@
 ### Greeter & Secretary Notes: 
 
-1. Check [Timetree](https://timetreeapp.com/calendars/SRx7BmTyN7Hw/events/860885a6cea44e82906797f5badeffa4) for the group credentials
-2. Sign into the [Zoom](https://zoom.us/) or app with below credentials: 
+In order to sign in a fulfill a service position, you need to sign in to the INTL group Zoom account. This account is different than your personal account. Do not sign in through your personal account. If you do happen to sign in via you personal account, ask the current host to make you a co-host. 
+
+1. Check [Timetree](https://timetreeapp.com/calendars/SRx7BmTyN7Hw/events/860885a6cea44e82906797f5badeffa4) for the group credentials. Take note of these credentials and store them so you can easily use them. 
+2. Sign into [Zoom](https://zoom.us/).
+> It's recommended that you use the above link. This will allow you to sign into the meeting using the INTL group account, while staying signed into the Zoom app through your personal account. You can sign into the INTL group account in the Zoom app as well, but you must sign out of your personal account.
+>
+>If you receive a message asking for an authentication code. Check with another member of the group. This code can be obtained by checking the INTL GMail account. 
 3. [Sign into Meeting](https://us04web.zoom.us/j/406536344)
+> The above link will start the meeting directly. 
 4. Rename yourself to reflect your actual name. 
 5. If you receive any error messages, reach out to the group for help
 
