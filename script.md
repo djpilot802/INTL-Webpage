@@ -1,10 +1,4 @@
-### Secretary Notes: 
-
-1. Check [Timetree](https://timetreeapp.com/calendars/SRx7BmTyN7Hw/events/860885a6cea44e82906797f5badeffa4) for the group credentials
-2. Sign into the [Zoom](https://zoom.us/) or app with below credentials: 
-3. [Sign into Meeting](https://us04web.zoom.us/j/406536344)
-4. Rename yourself to reflect your actual name. 
-5. If you receive any error messages, reach out to the group for help
+Thanks for being a part of INTL, and we hope you have a great meeting! 
 
 >Prior to the meeting, ask for volunteers, or just call on people in the moment - up to you: 
 >
@@ -26,8 +20,6 @@
 >- Ctrl & - to zoom out
 >- Ctrl & 0 to reset zoom
 >- Ctrl click the Daily Reflection to open in a new tab
-
-Thanks for being a part of INTL, and we hope you have a great meeting! The script starts directly below.
 
 # It's Not Too Late Meeting Script 
 
