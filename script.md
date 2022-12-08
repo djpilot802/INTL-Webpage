@@ -135,8 +135,8 @@ Before we get started, is anyone having a desire to drink today or have anything
 >Links for Secretary: 
 >
 >- [Big Book](https://www.aa.org/pages/en_us/alcoholics-anonymous)
->- [12 & 12](https://www.aa.org/pages/en_US/twelve-steps-and-twelve-traditions
-)
+>- [12 & 12](https://www.aa.org/pages/en_US/twelve-steps-and-twelve-traditions)
+>- [Living Sober](https://www.aa.org/living-sober-book)
 
 **Post Links in Chat**    
 
@@ -148,6 +148,10 @@ https://www.aa.org/pages/en_us/alcoholics-anonymous
 12&12 PDF: 
 
 https://www.aa.org/pages/en_US/twelve-steps-and-twelve-traditions
+
+Living Sober PDF: 
+
+https://www.aa.org/living-sober-book
 
 ```
 ## Script for Speaker Meeting: 
