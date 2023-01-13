@@ -4,7 +4,7 @@
 
 Sign up for service work using: 
 
-[Signup Genius](https://www.signupgenius.com/go/10c0f4aaeab2fa2fac07-january)
+[Signup Genius](https://www.signupgenius.com/go/10c0f4aaeab2fa2fac07-february#/)
 
 ## Keeping Track 
 
