@@ -120,7 +120,7 @@ I will now turn the meeting over to our Topic Bringer to present the topic, to s
 
 ## Script for Wednesday's Literature Study
 
-Here at the It’s Not Too Late meeting, on Wednesdays, we have a Literature Study where we alternate between the Big Book, 12&12, and Living Sober. We will pick up where we left off two week ago. I’ll start us off by reading a paragraph or so, sharing on what I’ve read, and then I will pass it to the next person. Then that person will pick on someone else... and so on.    
+Here at the It’s Not Too Late meeting, on Wednesdays, we have a Literature Study where we alternate between the Big Book, 12&12, and Living Sober. We will pick up where we left off a week ago. I’ll start us off by reading a paragraph or so, sharing on what I’ve read, and then I will pass it to the next person. Then that person will pick on someone else... and so on.    
 
 **When there are 12+ people active in the meeting (not just listening), say the following:**
 
