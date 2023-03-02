@@ -10,12 +10,12 @@ Sign up for service work using:
 
 Keep track of your existing service commitments with: 
 
-Download Timetree:
+### Download Timetree:
 
-[Timetree in Google Play](https://play.google.com/store/apps/details?id=works.jubilee.timetree&hl=en_US&gl=US&pli=1)
-[Timetree in App Store](https://apps.apple.com/us/app/timetree-shared-calendar/id952578473)
+- [Timetree in Google Play](https://play.google.com/store/apps/details?id=works.jubilee.timetree&hl=en_US&gl=US&pli=1)
+- [Timetree in App Store](https://apps.apple.com/us/app/timetree-shared-calendar/id952578473)
 
-Join INTL Shared Calendar: 
+### Join INTL Shared Calendar: 
 
 [INTL Shared Calendar](https://timetr.ee/s/x7odmjYhPdCX-SMMUrRzcVGZYqwTIwO2)
 
