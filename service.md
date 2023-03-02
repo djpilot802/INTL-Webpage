@@ -18,7 +18,7 @@ Keep track of your existing service commitments with:
 - Logging into INTL in Zoom application or Web Page 
 - Admitting people to the meeting 
 - Restricting and booting participants 
-- Navigation script
+- Navigating the script
 - Sharing screen
 - Pasting into meeting chat
 - Troubleshooting (MFA, accessing INTL Gmail, error messages, etc.)
