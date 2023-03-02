@@ -17,6 +17,8 @@ Keep track of your existing service commitments with:
 - Creating timetree account and using app
 - Logging into INTL in Zoom application or Web Page 
 - Admitting people to the meeting 
-- Sharing screen
 - Restricting and booting participants 
+- Navigation script
+- Sharing screen
+- Pasting into meeting chat
 - Troubleshooting (MFA, accessing INTL Gmail, error messages, etc.)
