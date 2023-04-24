@@ -17,7 +17,7 @@ Keep track of your existing service commitments with:
 
 ### Join INTL Shared Calendar: 
 
-[INTL Shared Calendar](https://timetr.ee/s/OOW-sP8HtpEpgRFmHoTJIYXd_4EpS1G1)
+[INTL Shared Calendar](https://timetr.ee/s/qL0OSQzihh2EXT4nR_VJz-FRN2P0zujR)
 
 ## Tutorial Points 
 
