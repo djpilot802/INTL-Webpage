@@ -156,7 +156,7 @@ https://www.aa.org/living-sober-book
 ```
 ## Script for Speaker Meeting: 
 
-Here at the It’s Not Too Late meeting, on the first Saturday of the month - which is today - a speaker graciously comes and shares their story with us. I will now turn the meeting over to our Speaker Seeker, Bill.
+Here at the It’s Not Too Late meeting, on the first Saturday of the month - which is today - a speaker graciously comes and shares their story with us. I will now turn the meeting over to our Speaker Seeker, Joanna.
 
 ## Script at 11:20 - 11:25PM
     
@@ -193,7 +193,7 @@ It’s Not Too Late’s 7th tradition virtual basket - Cash App - $1030INTL
 
 Service Work Signup:
 
-https://www.signupgenius.com/go/10c084da9a72aa0fdc34-july#/
+https://www.signupgenius.com/go/10C084DA9A72AA0FDC34-august
 
 INTL Anonymous Ask-It Basket: https://t8qg8dvqojx.typeform.com/to/rnNg3xav
 ```
