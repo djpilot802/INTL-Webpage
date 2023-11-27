@@ -193,7 +193,7 @@ It’s Not Too Late’s 7th tradition virtual basket - Cash App - $1030INTL
 
 Service Work Signup:
 
-https://www.signupgenius.com/go/10C084DA9A72AA0FDC34-45689117-november
+https://www.signupgenius.com/go/10C084DA9A72AA0FDC34-46346265-december
 
 INTL Anonymous Ask-It Basket: https://t8qg8dvqojx.typeform.com/to/rnNg3xav
 ```
