@@ -53,7 +53,7 @@ Half measures availed us nothing. We stood at the turning point. We asked His pr
 9. Made direct amends to such people wherever possible, except when to do so would injure them or others. 
 10. Continued to take personal inventory and when we were wrong promptly admitted it. 
 11. Sought through prayer and meditation to improve our conscious contact with God as we understood Him, praying only for knowledge of His will for us and the power to carry that out. 
-12. Having had a spiritual awakening as a result of these steps, we tried to carry this message to alcoholics, and to practice these principles in all our affairs.  
+12. Having had a spiritual awakening as the result of these steps, we tried to carry this message to alcoholics, and to practice these principles in all our affairs.  
 
 Many of us exclaimed, “What an order! I can’t go through with it.” Do not be discouraged. No one among us has been able to maintain anything like perfect adherence to these principles. We are not saints. The point is, that we are willing to grow along spiritual lines. The principles we have set down are guides to progress. We claim spiritual progress rather than spiritual perfection. 
 
