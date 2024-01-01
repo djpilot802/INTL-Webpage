@@ -206,7 +206,7 @@ ___
 
 Alright everyone, thank you for a great meeting. 
 
-We will now close the meeting with the Lord’s Prayer or a prayer of your choice. Please join us while on mute.  
+We will now close the meeting with a prayer of your choice. Please join us while on mute.  
 
 >(Whoever picked up a chip for the most time tonight can close with a prayer - or pick someone randomly).
 _______________; will you take us out?
