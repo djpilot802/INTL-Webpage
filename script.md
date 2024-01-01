@@ -90,11 +90,7 @@ ___
         
 Thank you readers.    
 
-Is anyone here in their first 90 days of sobriety? 
-
->Pause for people to speak and to look for raised hands
-
-Is this anyone’s first time at this meeting? 
+Is anyone here in their first 90 days of sobriety or attending this meeting for the first time? 
 
 >Pause for people to speak and to look for raised hands
 
