@@ -241,7 +241,7 @@ That where there is sadness, I may bring joy.
 Lord, grant that I may seek rather to comfort, than to be comforted. To Understand, than to be understood. To love, than to be loved. For it is by self-forgetting that one finds. It is by forgiving that one is forgiven. 
 It is by dying that one awakens to eternal life. Amen.
 
-# Night Prayer (derived from pg.86 of BB) NIGHT PRAYER
+# Night Prayer (derived from pg.86 of BB) 
 
 Higher Power, forgive me where I have been resentful, selfish, dishonest or afraid today. Help me to not keep anything to myself but to discuss it all openly with another person. Show me where I owe an apology and help me make it.
 
