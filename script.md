@@ -240,3 +240,24 @@ That where there are shadows, I may bring light.
 That where there is sadness, I may bring joy. 
 Lord, grant that I may seek rather to comfort, than to be comforted. To Understand, than to be understood. To love, than to be loved. For it is by self-forgetting that one finds. It is by forgiving that one is forgiven. 
 It is by dying that one awakens to eternal life. Amen.
+
+# Night Prayer (derived from pg.86 of BB) NIGHT PRAYER
+
+Higher Power, forgive me where I have been resentful, selfish, dishonest or afraid today. Help me to not keep anything to myself but to discuss it all openly with another person. Show me where I owe an apology and help me make it.
+
+Help me to be kind and loving to all people. Use me in the mainstream of life. Free me of worry, remorse, or sick reflections that I may be of usefulness to others. 
+
+# Life With Hope Prayer
+
+Higher Power, I have tried to control the uncontrollable for far too long.
+I acknowledge that my life is unmanageable.
+
+I ask for your care and guidance.
+Grant me honesty, courage, humility, and serenity, to face that which keeps me from you and others.
+I give this life to you to do with as you will.
+
+# The Native American Prayer
+
+Oh Great Spirit, whose voice I hear in the winds, and whose breath gives life to all the world - hear me - I come before you, one of your children. I am small and weak. I need your strength and wisdom. Let me walk in beauty and make my eyes ever behold the red and purple sunset. Make my hands respect the things you have made, my ears sharp to hear your voice. Make me wise, so that I may know the things you have taught my People, the lesson you have hidden in every leaf and rock.
+
+I seek strength not to be superior to my brothers, but to be able to fight my greatest enemy, myself. Make me ever ready to come to you, with clean hands and straight eyes, so when life fades as a fading sunset, my spirit may come to you without shame.
