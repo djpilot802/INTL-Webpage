@@ -152,7 +152,7 @@ https://www.aa.org/living-sober-book
 ```
 ## Script for Speaker Meeting: 
 
-Here at the It’s Not Too Late meeting, on the first Saturday of the month - which is today - a speaker graciously comes and shares their story with us. I will now turn the meeting over to our Speaker Seeker, Joanna.
+Here at the It’s Not Too Late meeting, on the first Saturday of the month - which is today - a speaker graciously comes and shares their story with us. I will now turn the meeting over to our Speaker Seeker, AJ.
 
 ## Script at 11:20 - 11:25PM
     
