@@ -191,7 +191,9 @@ Service Work Signup:
 
 https://www.signupgenius.com/go/10C084DA9A72AA0FDC34-54302622-january#/
 
-INTL Anonymous Ask-It Basket: https://t8qg8dvqojx.typeform.com/to/rnNg3xav
+INTL Anonymous Ask-It Basket:
+
+https://t8qg8dvqojx.typeform.com/to/rnNg3xav
 ```
 
 Now someone will read the Promises from pages 83-84 of the AA Big Book, which I will share on the screen...
