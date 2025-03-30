@@ -180,7 +180,7 @@ ________, will you please present the virtual chips tonight?
 
 There are no dues or fees for A.A. membership; we are self-supporting through our own contributions. A.A. Is not allied with any sect, denomination, politics, organization or institution; does not wish to engage in any controversy; neither endorses nor opposes any causes. Our primary purpose is to stay sober and help other alcoholics to achieve sobriety. If you would like to contribute to our 7th tradition basket, we will post the meeting’s Cash App username in the chat shortly.  
 
-Our monthly group conscience meeting is the last Saturday of every month at 11:45pm directly following the regular meeting. If you are interested in making It’s Not Too Late your virtual homegroup, please say so in the chat or stay and talk to us after the meeting! If you want to be of service in the upcoming month, click on the link in the chat to sign up. We have an ask-it basket that allows you to ask recovery-related questions anonymously. We review these questions as topics at our Sunday meeting. Feel free to submit a question by clicking the link in the chat. We have a Speaker Meeting the first Saturday of the month - please come show your support. Are there any A.A. announcements?    
+Our monthly group conscience meeting is the last Saturday of every month at 11:45pm directly following the regular meeting. If you are interested in making It’s Not Too Late your virtual homegroup, please say so in the chat or stay and talk to us after the meeting! If you want to be of service in the upcoming month, click on the link in the chat to sign up. We have a Speaker Meeting the first Saturday of the month - please come show your support. Are there any A.A. announcements?    
 
 **Paste below in the meeting chat:**   
 
@@ -190,10 +190,6 @@ It’s Not Too Late’s 7th tradition virtual basket - Cash App - $1030INTL
 Service Work Signup:
 
 https://www.signupgenius.com/go/10C084DA9A72AA0FDC34-55715934-april
-
-INTL Anonymous Ask-It Basket:
-
-https://t8qg8dvqojx.typeform.com/to/rnNg3xav
 ```
 
 Now someone will read the Promises from pages 83-84 of the AA Big Book, which I will share on the screen...
