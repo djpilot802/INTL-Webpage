@@ -189,7 +189,7 @@ It’s Not Too Late’s 7th tradition virtual basket - Cash App - $1030INTL
 
 Service Work Signup:
 
-https://www.signupgenius.com/go/10C084DA9A72AA0FDC34-55715934-april
+https://www.signupgenius.com/go/10C084DA9A72AA0FDC34-56394964-february#/
 ```
 
 Now someone will read the Promises from pages 83-84 of the AA Big Book, which I will share on the screen...
